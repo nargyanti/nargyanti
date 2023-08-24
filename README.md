@@ -28,7 +28,7 @@ Here are some technologies I work with:
 ![PHP](https://img.shields.io/badge/PHP-steelblue?logo=php&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript&logoColor=white) ![Python](https://img.shields.io/badge/python-dodgerblue?logo=python&logoColor=white) ![Laravel](https://img.shields.io/badge/Laravel-red?logo=laravel&logoColor=white) ![Vue.js](https://img.shields.io/badge/Vue.js-darkgreen?logo=vue.js&logoColor=white) ![Django](https://img.shields.io/badge/Django-green?logo=django&logoColor=white)
 
 ## GitHub Stats
-
+<--!
 <div align="center">
   <a href="https://github.com/nargyanti/github-readme-stats">
     <img height="200" src="https://github-readme-stats-sigma-five.vercel.app/api?username=nargyanti" />
@@ -36,4 +36,4 @@ Here are some technologies I work with:
   <a href="https://github.com/nargyanti/convoychat">
     <img height="200" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=nargyanti&layout=compact&langs_count=8&card_width=320" />
   </a>
-</div>
+</div> -->
