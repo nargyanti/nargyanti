@@ -31,9 +31,9 @@ Here are some technologies I work with:
 
 <div align="center">
   <a href="https://github.com/nargyanti/github-readme-stats">
-    <img height="200" src="https://github-readme-stats.vercel.app/api?username=nargyanti" />
+    <img height="200" src="https://github-readme-stats-sigma-five.vercel.app/api?username=nargyanti" />
   </a>
   <a href="https://github.com/nargyanti/convoychat">
-    <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=nargyanti&layout=compact&langs_count=8&card_width=320" />
+    <img height="200" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=nargyanti&layout=compact&langs_count=8&card_width=320" />
   </a>
 </div>
