@@ -19,7 +19,7 @@
 
 ## About Me
 
-I'm Nabilah Argyanti, passionate about learning and exploring various aspects of web development. My main focus is on backend work, but I also enjoy diving into frontend development, mobile apps, and even exploring data analysis.
+I'm passionate about learning and exploring various aspects of web development. My main focus is on backend work, but I also enjoy diving into frontend development, mobile apps, and even exploring data analysis.
 
 ## Tech Stack
 
