@@ -12,9 +12,6 @@
   <a href="http://nargyanti.github.io">
     <img src="https://img.shields.io/badge/Website-darkgreen?style=for-the-badge&logo=firefox&logoColor=white" alt="Website" />
   </a>
-  <a href="https://www.facebook.com/nargyanti29">
-    <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook" />
-  </a>
 </div>
 
 ## About Me
