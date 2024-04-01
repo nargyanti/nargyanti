@@ -9,7 +9,7 @@
   <a href="mailto:nargyanti@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="http://nargyanti.my.id/">
+  <a href="http://nargyanti.github.io">
     <img src="https://img.shields.io/badge/Website-darkgreen?style=for-the-badge&logo=firefox&logoColor=white" alt="Website" />
   </a>
   <a href="https://www.facebook.com/nargyanti29">
