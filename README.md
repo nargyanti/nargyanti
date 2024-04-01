@@ -4,13 +4,13 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/in/nargyanti">
-    <img src="https://img.shields.io/badge/Linkedin-dodgerblue?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" />
+    <img src="https://img.shields.io/badge/Linkedin-dodgerblue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:nargyanti@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="G-Mail" />
   </a>
   <a href="http://nargyanti.github.io">
-    <img src="https://img.shields.io/badge/Website-darkgreen?style=for-the-badge&logo=firefox&logoColor=white" alt="Website" />
+    <img src="https://img.shields.io/badge/Website-darkgreen?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" />
   </a>
 </div>
 
