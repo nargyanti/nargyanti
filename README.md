@@ -26,11 +26,5 @@ Here are some technologies I work with:
 
 ## GitHub Stats
 
-<div align="center">
-  <a href="https://github.com/nargyanti/github-readme-stats">
-    <img height="200" src="https://github-readme-stats-sigma-five.vercel.app/api?username=nargyanti" />
-  </a>
-  <a href="https://github.com/nargyanti/convoychat">
-    <img height="200" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=nargyanti&layout=compact&langs_count=8&card_width=320" />
-  </a>
-</div>
+![nargyanti's Stats](https://github-readme-stats.vercel.app/api?username=nargyanti&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![nargyanti's Streak](https://github-readme-streak-stats.herokuapp.com/?user=nargyanti&theme=vue-dark&hide_border=true)
