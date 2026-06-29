@@ -1,30 +1,67 @@
-# Hi there! I'm Nabilah Argyanti 👋
-
-![Cover](assets/Cover.png)
-
 <div align="center">
-  <a href="https://www.linkedin.com/in/nargyanti">
-    <img src="https://img.shields.io/badge/Linkedin-dodgerblue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:nargyanti@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="G-Mail" />
-  </a>
-  <a href="http://nargyanti.github.io">
-    <img src="https://img.shields.io/badge/Website-darkgreen?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" />
-  </a>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono\&weight=500\&size=22\&pause=1200\&color=6E9EBF\&center=true\&vCenter=true\&width=600\&lines=hi%2C+I'm+Nabilah+%F0%9F%91%8B;IT+Supervisor+%C2%B7+Laravel+Builder;turning+workflows+into+systems)](https://git.io/typing-svg)
+
 </div>
 
-## About Me
+---
 
-I'm passionate about learning and exploring various aspects of web development. My main focus is on backend work, but I also enjoy diving into frontend development, mobile apps, and even exploring data analysis.
+```sql
+SELECT * 
+FROM humans
+WHERE documented_business_process = true
+  AND asked_it_before_building = true;
 
-## Tech Stack
+-- 0 rows returned. That's why I exist.
+```
 
-Here are some technologies I work with:
+---
 
-![PHP](https://img.shields.io/badge/PHP-steelblue?logo=php&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript&logoColor=white) ![Python](https://img.shields.io/badge/python-dodgerblue?logo=python&logoColor=white) ![Laravel](https://img.shields.io/badge/Laravel-red?logo=laravel&logoColor=white) ![Vue.js](https://img.shields.io/badge/Vue.js-darkgreen?logo=vue.js&logoColor=white) ![Django](https://img.shields.io/badge/Django-green?logo=django&logoColor=white)
+### about
 
-## GitHub Stats
+I'm an IT Supervisor working on internal systems for real-world operations.
 
-![nargyanti's Stats](https://github-readme-stats.vercel.app/api?username=nargyanti&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-![nargyanti's Streak](https://github-readme-streak-stats.herokuapp.com/?user=nargyanti&theme=vue-dark&hide_border=true)
+Most of my work revolves around Laravel-based ERP, business process mapping, deployment, documentation, production support, and turning operational workflows into systems people can actually use.
+
+Outside of work, I'm curious about how humans think, decide, learn, and interact with technology. That interest pulls me toward systems thinking, cognitive systems, practical AI, and better tools for everyday work.
+
+> Momo believes in spirits. Okarun believes in aliens. I believe business processes should be documented before becoming software.
+
+---
+
+### what I work on
+
+* Laravel-based ERP and internal business applications
+* Business process mapping and workflow design
+* Deployment and production support
+* Technical documentation and user guides
+* Internal tools for operational teams
+* Multi-site WordPress development and deployment
+
+---
+
+### main tools
+
+Laravel · MySQL · Linux Server · Docker · Nginx/Apache · WordPress
+
+---
+
+### current curiosities
+
+Systems thinking · Human decision-making · Cognitive systems · Practical AI · Better tools for everyday work
+
+---
+
+### stats
+
+<div align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=nargyanti&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+
+</div>
+
+---
+
+<div align="center">
+  <sub>systems first, chaos later</sub>
+</div>
