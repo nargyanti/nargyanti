@@ -1,35 +1,38 @@
-<div align="center">
+# Hi, I'm Nabilah Argyanti 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono\&weight=500\&size=22\&pause=1200\&color=6E9EBF\&center=true\&vCenter=true\&width=600\&lines=hi%2C+I'm+Nabilah+%F0%9F%91%8B;IT+Supervisor+%C2%B7+Laravel+Builder;turning+workflows+into+systems)](https://git.io/typing-svg)
+<img align="right" src="assets/momo-small.gif" width="145" alt="Momo inspired gif" />
 
-</div>
+**IT Supervisor · Laravel Builder · Workflow Untangler**
 
----
+I build practical systems with Laravel and a quiet curiosity about how humans think.
+
+Most of my work lives somewhere between business process, internal systems, deployment, documentation, and the tiny gap between “this is how we usually do it” and “wait, why does it work like that?”
 
 ```sql
-SELECT * 
-FROM humans
-WHERE documented_business_process = true
-  AND asked_it_before_building = true;
+SELECT *
+FROM business_processes
+WHERE process_is_clear = true
+  AND edge_cases_are_handled = true;
 
--- 0 rows returned. That's why I exist.
+-- 0 rows returned. apparently, that's my cue.
 ```
 
----
-
-### about
-
-I'm an IT Supervisor working on internal systems for real-world operations.
-
-Most of my work revolves around Laravel-based ERP, business process mapping, deployment, documentation, production support, and turning operational workflows into systems people can actually use.
-
-Outside of work, I'm curious about how humans think, decide, learn, and interact with technology. That interest pulls me toward systems thinking, cognitive systems, practical AI, and better tools for everyday work.
-
-> Momo believes in spirits. Okarun believes in aliens. I believe business processes should be documented before becoming software.
+<br clear="right"/>
 
 ---
 
-### what I work on
+## About
+
+I'm currently working on internal systems for real-world operations, mostly around Laravel-based ERP, business process mapping, deployment, documentation, and production support.
+
+Outside of work, I'm interested in systems thinking, human decision-making, cognitive systems, practical AI, and tools that help people work better without making their workflow heavier.
+
+> Momo investigates spirits. Okarun chases aliens.
+> I investigate why the workflow changed again.
+
+---
+
+## What I Usually Work On
 
 * Laravel-based ERP and internal business applications
 * Business process mapping and workflow design
@@ -40,28 +43,40 @@ Outside of work, I'm curious about how humans think, decide, learn, and interact
 
 ---
 
-### main tools
+## Main Tools
 
 Laravel · MySQL · Linux Server · Docker · Nginx/Apache · WordPress
 
 ---
 
-### current curiosities
+## Current Curiosities
 
 Systems thinking · Human decision-making · Cognitive systems · Practical AI · Better tools for everyday work
 
 ---
 
-### stats
+## Find Me
 
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=nargyanti&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-
-</div>
+<p>
+  <a href="https://www.linkedin.com/in/nargyanti">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:nargyanti@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://nargyanti.github.io">
+    <img src="https://img.shields.io/badge/Website-2E7D32?style=flat-square&logo=firefox&logoColor=white" alt="Website" />
+  </a>
+</p>
 
 ---
 
-<div align="center">
+## GitHub Stats
+
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=nargyanti&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+</p>
+
+<p align="center">
   <sub>systems first, chaos later</sub>
-</div>
+</p>
