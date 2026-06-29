@@ -1,8 +1,6 @@
 # Hi, I'm Nabilah Argyanti 👋
 
-<img align="right" src="assets/momo-small.gif" width="145" alt="Momo inspired gif" />
-
-**IT Supervisor · Laravel Builder · Workflow Untangler**
+<img align="right" src="https://tenor.com/r10nS9VgzYF.gif" width="145" alt="Momo inspired gif" />
 
 I build practical systems with Laravel and a quiet curiosity about how humans think.
 
@@ -28,7 +26,7 @@ I'm currently working on internal systems for real-world operations, mostly arou
 Outside of work, I'm interested in systems thinking, human decision-making, cognitive systems, practical AI, and tools that help people work better without making their workflow heavier.
 
 > Momo investigates spirits. Okarun chases aliens.
-> I investigate why the workflow changed again.
+> I investigate why “just follow the usual process” has 12 hidden exceptions.
 
 ---
 
@@ -68,6 +66,14 @@ Systems thinking · Human decision-making · Cognitive systems · Practical AI �
     <img src="https://img.shields.io/badge/Website-2E7D32?style=flat-square&logo=firefox&logoColor=white" alt="Website" />
   </a>
 </p>
+
+## Current Soundtrack
+
+Currently looping Hindia while untangling workflows.
+
+<a href="SPOTIFY_PLAYLIST_LINK_KAMU">
+  <img src="https://img.shields.io/badge/Spotify-Hindia%20on%20repeat-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Spotify Playlist" />
+</a>
 
 ---
 
