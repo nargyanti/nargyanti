@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://c.tenor.com/0B_kx1d93z8AAAAd/tenor.gif" width="100%" alt="Dandadan inspired header" />
+  <img src="https://c.tenor.com/0B_kx1d93z8AAAAd/tenor.gif" width="80%" alt="Dandadan inspired header" />
 </div>
 
 <br />
